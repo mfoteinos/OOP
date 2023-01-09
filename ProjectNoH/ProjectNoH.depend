@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559507917 source:c:\users\manol\onedrive\documents\shit\c++\projectnoh\main.cpp
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<iostream>
+	<string>
+	<exception>
+	<time.h>
+	<vector>
+
